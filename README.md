@@ -46,7 +46,7 @@ Basic understanding of the MERN stack.
 
 Installation
 
-Clone the repository: git clone https://github.com/yourusername/textapp.git
+Clone the repository: git clone https://github.com/AnweshaMondal/My_ChatApp.git
 Navigate to the project directory: cd textapp
 Install dependencies: npm install
 Set up environment variables (e.g., MongoDB URI, JWT secret) in a .env file.
@@ -64,11 +64,11 @@ We welcome contributions to improve TextApp! Please follow these steps:
 
 Fork the repository.
 Create a new branch: git checkout -b feature-name.
-Make your changes and commit: git commit -m "Add feature-name".
+Make your changes and commit: git commit -m "Enhanced UI".
 Push to the branch: git push origin feature-name.
 Submit a pull request.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-For any questions or support, reach out to the developer at your.email@example.com.
+For any questions or support, reach out to the developer at anweshamondal1712@gmail.com.
