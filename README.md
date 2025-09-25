@@ -11,9 +11,9 @@ A real-time chat application built with JavaScript, featuring both frontend and 
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React.js, Tailwind CSS, JavaScript
 - **Backend**: Node.js, Express
-- **Database**: (Specify if using MongoDB, MySQL, etc.)
+- **Database**: MongoDB
 
 ## Installation
 
