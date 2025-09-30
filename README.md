@@ -1,4 +1,4 @@
-# My_ChatApp
+# Chat_Nest
 
 A real-time chat application built with JavaScript, featuring both frontend and backend components for seamless communication.
 
